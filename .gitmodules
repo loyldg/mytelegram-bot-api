@@ -1,3 +1,3 @@
 [submodule "td"]
-	path = td
+	path = /
 	url = https://github.com/loyldg/mytelegram-td/td.git
